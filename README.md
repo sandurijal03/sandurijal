@@ -1,4 +1,4 @@
-# Hey there, I'm Sandip Rijal.
+# Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Sandip Rijal.
 
 ## I am software developer from Nepal, currently specializing in SPA with React and Restful/GraphQL APIs in Node.js.
 
