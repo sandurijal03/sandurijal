@@ -1,16 +1,17 @@
 # Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Sandip Rijal.
 
-## I am fullstack developer from Nepal, currently specializing graphql(MERN) app.
+## I am fullstack developer from Nepal, currently specializing system programming with rust.
 
-- I am currently learning and practicing rust and blockchain from scratch.
-- Things on my plate later - Microservices and Devops.
+- I am currently learning and practicing rust with neovim.
+- Things on my plate later - Build Everything with rust.
 - All my projects are available here.
-- You can ask me about React, Nodejs & javascript.
+- You can ask me about React, Nodejs, Javascript, Typescript.
 - sandurijal03@hotmail.com is a way to connect with me.
 
 ### Language and Tools
 
 <a href="https://javascript.info/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/Typescript-003c63?style=for-the-badge&logo=typescript&logoColor=black" alt="typescript"></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" /></a>
