@@ -10,7 +10,7 @@
 
 ### Language and Tools
 
-<a href="https://rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust?style=for-the-badge&logo=rust&logoColor=black" alt="rust"></a>
+<a href="https://rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-f74b00?style=for-the-badge&logo=rust&logoColor=black" alt="rust"></a>
 <a href="https://javascript.info/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/Typescript-003c63?style=for-the-badge&logo=typescript&logoColor=black" alt="typescript"></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
